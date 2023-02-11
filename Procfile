@@ -1,1 +1,1 @@
-worker: python3 kattusirukkimusicbot.py
+worker: python3 SongPlayRoBot.py
